@@ -1,2 +1,0 @@
-# Hinhanh
-File hinh anh
